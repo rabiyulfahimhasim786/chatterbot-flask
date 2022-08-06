@@ -17,6 +17,8 @@ or
 
 ![Chatbot](https://studygyaan.com/wp-content/uploads/2020/03/Chatbot-in-Python.png?style=centerme)
 
+http://127.0.0.1:5000/
+
 ![Chatbot](https://github.com/rabiyulfahimhasim786/chatterbot-flask/blob/main/coronabot-chatterbot/screenshot/Screenshot%202022-08-06%20at%2000-43-22%20CoronaBot.png?style=centreme)
 
 
@@ -25,5 +27,6 @@ or
 
 ![Chatbot](https://github.com/rabiyulfahimhasim786/chatterbot-flask/blob/main/coronabot-chatterbot/screenshot/Screenshot%202022-08-06%20at%2000-43-54%20CoronaBot.png?style=centreme)
 
+http://127.0.0.1:5000/get?msg=hi
 
 ![API](https://github.com/rabiyulfahimhasim786/chatterbot-flask/blob/main/coronabot-chatterbot/screenshot/Screenshot%202022-08-06%20at%2000-44-08%20Screenshot.png?style=centreme)
