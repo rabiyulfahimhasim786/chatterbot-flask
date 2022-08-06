@@ -27,6 +27,9 @@ http://127.0.0.1:5000/
 
 ![Chatbot](https://github.com/rabiyulfahimhasim786/chatterbot-flask/blob/main/coronabot-chatterbot/screenshot/Screenshot%202022-08-06%20at%2000-43-54%20CoronaBot.png?style=centreme)
 
+from this open source project i was updated chatbot rest API
+
 http://127.0.0.1:5000/get?msg=hi
+
 
 ![API](https://github.com/rabiyulfahimhasim786/chatterbot-flask/blob/main/coronabot-chatterbot/screenshot/Screenshot%202022-08-06%20at%2000-44-08%20Screenshot.png?style=centreme)
