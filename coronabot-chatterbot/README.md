@@ -30,6 +30,8 @@ http://127.0.0.1:5000/
 from this open source project i was updated chatbot rest API
 
 http://127.0.0.1:5000/get?msg=hi
+
+
 http://127.0.0.1:5000/response?msg=hi
 
 
