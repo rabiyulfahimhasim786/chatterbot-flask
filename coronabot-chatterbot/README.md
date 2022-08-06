@@ -3,6 +3,8 @@ CoronaBot is a chat bot for answering question regarding Coronavirus
 
 Tutorial - https://studygyaan.com/uncategorised/create-web-based-chatbot-in-python-django-flask
 
+https://hrfcreation.blogspot.com/2022/08/create-web-based-chatbot-in-python.html
+
 `pip install Flask`
 
 `pip install chatterbot`
